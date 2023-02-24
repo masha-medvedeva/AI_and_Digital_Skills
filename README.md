@@ -1,1 +1,1 @@
-# AI_and_Digital_Skills
+## Code for AI and Digital Skills course at Leiden University Law School
